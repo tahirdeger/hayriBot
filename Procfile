@@ -1,1 +1,1 @@
-web: python3 -m tg_bot
+web: python -m tg_bot runserver 0.0.0.0:5000
