@@ -1,1 +1,1 @@
-web: python main.py --port=$PORT
+web: python -m tg_bot runserver 0.0.0.0:5000
