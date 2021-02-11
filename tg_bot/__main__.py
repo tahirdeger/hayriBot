@@ -18,6 +18,7 @@ from tg_bot.modules import ALL_MODULES
 from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
+
 PM_START_TEXT = """
 Selamunaleyküm {}, ben {}! Sanal asistan olarak iş hayatına atılmış bulunmaktayım. Senin sanal asistanın olabilir, gruplarını senin için yönetebilirim !
 Gözün arkada kalmasın, gözümü kulağımı dört açarım...
@@ -35,7 +36,7 @@ Bendeniz sanal asistan ve grup yönetim botu olarak acizane şunları yapabiliri
 
 => Ön ayarları yapalım:
  - /yardim: Bireysel olarak emir ve görüşlerini alırım
- - /yardim <module name>: Bir modül ile ilgili emir ve görüşlerini alırım.
+ - /yardim <modül adı>: Bir modül ile ilgili emir ve görüşlerini alırım.
  - /bagis: Maddi destek
  - /ayarlar:
    - in PM: Desteklenen tüm modüller için gereken ayarları yaparım.
