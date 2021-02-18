@@ -18,6 +18,14 @@ from tg_bot.modules import ALL_MODULES
 from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
+#
+from flask import Flask, jsonify
+import os
+
+app = Flask(__name__)
+port = int(os.environ.get("PORT",5000))
+
+#
 
 PM_START_TEXT = """
 Selamunaleyküm {}, ben {}! Sanal asistan olarak iş hayatına atılmış bulunmaktayım. Senin sanal asistanın olabilir, gruplarını senin için yönetebilirim !
@@ -39,8 +47,8 @@ Bendeniz sanal asistan ve grup yönetim botu olarak acizane şunları yapabiliri
  - /yardim <modül adı>: Bir modül ile ilgili emir ve görüşlerini alırım.
  - /bagis: Maddi destek
  - /ayarlar:
-   - in PM: Desteklenen tüm modüller için gereken ayarları yaparım.
-   - in a group: Gruplar için gereken ayarları yaparım.
+   - özelde: Desteklenen tüm modüller için gereken ayarları yaparım.
+   - grup içinde: Gruplar için gereken ayarları yaparım.
 
 {}
 => Yapabileceğim tüm işleri planlayalım:
@@ -509,4 +517,5 @@ def process_update(self, update):
 
 if __name__ == '__main__':
     LOGGER.info("Successfully loaded modules: " + str(ALL_MODULES))
+    app.run(debug=True,host='0.0.0.0',port=port)
     main()
