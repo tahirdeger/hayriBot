@@ -23,7 +23,7 @@ from flask import Flask, jsonify
 import os
 
 app = Flask(__name__)
-port = int(os.environ.get("PORT",5000))
+
 
 #
 
@@ -517,5 +517,4 @@ def process_update(self, update):
 
 if __name__ == '__main__':
     LOGGER.info("Successfully loaded modules: " + str(ALL_MODULES))
-    app.run(debug=True,host='0.0.0.0')
     main()
