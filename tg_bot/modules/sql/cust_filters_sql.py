@@ -36,7 +36,7 @@ class CustomFilters(BASE):
         self.has_markdown = True
 
     def __repr__(self):
-        return "<Permissions for %s>" % self.chat_id
+        return "<%s izinleri>" % self.chat_id
 
     def __eq__(self, other):
         return bool(isinstance(other, CustomFilters)

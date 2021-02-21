@@ -20,7 +20,7 @@ class FloodControl(BASE):
         self.chat_id = str(chat_id)  # ensure string
 
     def __repr__(self):
-        return "<flood control for %s>" % self.chat_id
+        return "<%s için seri mesaj kontrolü>" % self.chat_id
 
 
 FloodControl.__table__.create(checkfirst=True)

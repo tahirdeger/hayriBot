@@ -43,7 +43,7 @@ class Permissions(BASE):
         self.location = False
 
     def __repr__(self):
-        return "<Permissions for %s>" % self.chat_id
+        return "<%s izinleri>" % self.chat_id
 
 
 class Restrictions(BASE):
@@ -63,7 +63,7 @@ class Restrictions(BASE):
         self.preview = False
 
     def __repr__(self):
-        return "<Restrictions for %s>" % self.chat_id
+        return "<%s için kısıtlamalar>" % self.chat_id
 
 
 Permissions.__table__.create(checkfirst=True)

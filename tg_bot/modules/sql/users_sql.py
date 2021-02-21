@@ -53,7 +53,7 @@ class ChatMembers(BASE):
         self.user = user
 
     def __repr__(self):
-        return "<Chat user {} ({}) in chat {} ({})>".format(self.user.username, self.user.user_id,
+        return "<{} ({}) Adlı sohbette kullanıcıyla sohbet et {} ({})>".format(self.user.username, self.user.user_id,
                                                             self.chat.chat_name, self.chat.chat_id)
 
 
