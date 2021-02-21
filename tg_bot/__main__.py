@@ -18,14 +18,7 @@ from tg_bot.modules import ALL_MODULES
 from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
-#
-from flask import Flask, jsonify
-import os
 
-app = Flask(__name__)
-
-
-#
 
 PM_START_TEXT = """
 Selamunaleyküm {}, ben {}! Sanal asistan olarak iş hayatına atılmış bulunmaktayım. Senin sanal asistanın olabilir, gruplarını senin için yönetebilirim !
