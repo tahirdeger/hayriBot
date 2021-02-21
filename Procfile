@@ -1,1 +1,1 @@
-worker: python -m tg_bot
+worker: python -m hayri_bt

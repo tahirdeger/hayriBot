@@ -277,7 +277,7 @@ def goodbye(bot: Bot, update: Update, args: List[str]):
 
         elif args[0].lower() in ("kapat", "hayir"):
             sql.set_gdbye_preference(str(chat.id), False)
-            update.effective_message.reply_text("Onlar benim için öldüler.")
+            update.effective_message.reply_text("Onlar benim için yoklar.")
 
         else:
             # idek what you're writing, say yes or no
@@ -411,10 +411,13 @@ Her değişkenin değiştirilmesi için '{{}}' ile çevrelenmiş OLMALIDIR
 Karşılama mesajları ayrıca işaretlemeyi destekler, böylece herhangi bir öğeyi kalın / italik / kod / bağlantı yapabilirsiniz.
 
 Butonlar da desteklenmektedir, böylece hoş geldiniz konuşmalarınızın harika görünmesini sağlayabilirsiniz
-Bağlanan bir düğme oluşturmak için şunu kullanın: `[Metin](buttonurl://t.me/{}?start=group_id)`
+Bağlanan bir düğme oluşturmak için şunu kullanın:
+
+`[Metin](buttonurl://t.me/{}?start=group_id)`
+
 /id ile grup id'sini öğrenebilirsiniz. Grup id'sinden önce genellikle bir - işareti bulunduğunu unutmayın; bu gereklidir, bu yüzden lütfen kaldırmayın.
 
-İstenilen medyayı yanıtlayarak ve / setwelcome'ı arayarak görüntüleri / gifleri / videoları / sesli mesajları hoş geldiniz mesajı olarak bile ayarlayabilirsiniz..""".format(dispatcher.bot.username)
+İstenilen medyayı yanıtlayarak ve /selamver komutu ile görüntüleri / gifleri / videoları / sesli mesajları hoş geldiniz mesajı olarak bile ayarlayabilirsiniz..""".format(dispatcher.bot.username)
 
 @run_async
 @user_admin
