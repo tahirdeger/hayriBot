@@ -24,7 +24,9 @@ PM_START_TEXT = """
 Selamunaleyküm {}, ben {}! Sanal asistan olarak iş hayatına atılmış bulunmaktayım. Senin sanal asistanın olabilir, gruplarını senin için yönetebilirim !
 Gözün arkada kalmasın, gözümü kulağımı dört açarım...
 
-Bendeniz, Python ile oluşturulmuş bir grup yöneticisi botuyum ve tamamen açık kaynaklıyım; \
+Bendeniz, Python ile oluşturulmuş bir grup yöneticisi botuyum ve tamamen açık kaynaklıyım;
+
+İncelemek için: https://github.com/tahirdeger/hayriBot
 
 Bildiklerimi listelemek için => /yardim.
 
@@ -47,7 +49,7 @@ Bendeniz sanal asistan ve grup yönetim botu olarak acizane şunları yapabiliri
 => Yapabileceğim tüm işleri planlayalım:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nTüm komutları yazarken başına / veya ! koymayı unutma.\n")
 
-DONATE_STRING = """Şu para işlerini hiç sevmem ya. Neyse eğer çok istersen yardım yapabilirsin; [PayPal](), or [Monzo]()."""
+DONATE_STRING = """Şu para işlerini hiç sevmem . Sen beni bırak yapacaksan AFAD'a yardım et; Ziraat IBAN TR 7300 0100 1745 5555 5555 5204."""
 
 IMPORTED = {}
 MIGRATEABLE = []
