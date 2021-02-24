@@ -209,7 +209,7 @@ def __chat_settings__(chat_id, user_id):
 __help__ = """
  - /yonetimlistesi: Gruptaki yöneticileri listeler
 
-*Sadece yöneeticiler:*
+*Sadece yöneticiler:*
  - /sabitle: mesajı sessizce sabitler - Kullanıcalara bildirim vermek için sonuna 'sesli' veya 'bildir' veya 'siddetli' ekleyin.
  - /kaldir: Sabitlenen mesajları kaldirir
  - /davet: Davet bağlantısı gönderir

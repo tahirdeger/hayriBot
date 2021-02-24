@@ -39,11 +39,11 @@ def send_rules(update, chat_id, from_pm=False):
         bot.send_message(user.id, text, parse_mode=ParseMode.MARKDOWN)
     elif from_pm:
         bot.send_message(user.id, "Grup yöneticileri henüz bu sohbet için herhangi bir kural belirlemedi. "
-                                  "Bu kanunsuz olduğu anlamına gelmez...!")
+                                  "Bu kuralsız olduğu anlamına gelmez...!")
     elif rules:
         update.effective_message.reply_text(text,
                                             reply_markup=InlineKeyboardMarkup(
-                                                [[InlineKeyboardButton(text="Rules",
+                                                [[InlineKeyboardButton(text="Hayri ile görüş",
                                                                        url="t.me/{}?start={}".format(bot.username,
                                                                                                      chat_id))]]))
     else:
