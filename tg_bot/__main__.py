@@ -222,7 +222,7 @@ def help_button(bot: Bot, update: Update):
             pass
         elif excp.message == "Sorgu kimliği geçersiz":
             pass
-        elif excp.message == "Hop, oarada dur. Bu mesaj silinemez":
+        elif excp.message == "Hop, orada dur. Bu mesaj silinemez":
             pass
         else:
             LOGGER.exception("Exception in help buttons. %s", str(query.data))
