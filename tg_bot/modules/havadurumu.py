@@ -94,7 +94,7 @@ def havanasil(bot: Bot, update: Update):
         veri = sehirID(secim)
         veriListesi = anlikBilgi(veri)
         veriAl(veriListesi[0],veriListesi[1],veriListesi[2],veriListesi[3])
-        update.effective_message.reply_text("Hava durumu belirlendi")
+        msg.reply_text("Hava durumu belirlendi")
         
         
     else:
