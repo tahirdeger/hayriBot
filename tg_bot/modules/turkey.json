@@ -1,0 +1,4174 @@
+[
+    {
+    "id": 296173,
+    "city": {
+      "id": {
+        "$numberLong": "296173"
+      },
+      "name": "Yuksekova",
+      "findname": "YUKSEKOVA",
+      "country": "TR",
+      "coord": {
+        "lon": 44.287159,
+        "lat": 37.57362
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 296562,
+    "city": {
+      "id": {
+        "$numberLong": "296562"
+      },
+      "name": "Yozgat",
+      "findname": "YOZGAT",
+      "country": "TR",
+      "coord": {
+        "lon": 34.80444,
+        "lat": 39.82
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 296832,
+    "city": {
+      "id": {
+        "$numberLong": "296832"
+      },
+      "name": "Yesilli",
+      "findname": "YESILLI",
+      "country": "TR",
+      "coord": {
+        "lon": 40.825581,
+        "lat": 37.3405
+      },
+      "zoom": {
+        "$numberLong": "11"
+      }
+    }
+  },
+  {
+    "id": 296852,
+    "city": {
+      "id": {
+        "$numberLong": "296852"
+      },
+      "name": "Erzin",
+      "findname": "ERZIN",
+      "country": "TR",
+      "coord": {
+        "lon": 36.200001,
+        "lat": 36.955891
+      },
+      "zoom": {
+        "$numberLong": "11"
+      }
+    }
+  },
+  {
+    "id": 296895,
+    "city": {
+      "id": {
+        "$numberLong": "296895"
+      },
+      "name": "Yerkoy",
+      "findname": "YERKOY",
+      "country": "TR",
+      "coord": {
+        "lon": 34.46722,
+        "lat": 39.638062
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "297090"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "297090"
+      },
+      "name": "Didim",
+      "findname": "DIDIM",
+      "country": "TR",
+      "coord": {
+        "lon": 27.26778,
+        "lat": 37.375561
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 297564,
+    "city": {
+      "id": {
+        "$numberLong": "297564"
+      },
+      "name": "Yatagan",
+      "findname": "YATAGAN",
+      "country": "TR",
+      "coord": {
+        "lon": 28.14279,
+        "lat": 37.34026
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 297789,
+    "city": {
+      "id": {
+        "$numberLong": "297789"
+      },
+      "name": "Yalvac",
+      "findname": "YALVAC",
+      "country": "TR",
+      "coord": {
+        "lon": 31.17778,
+        "lat": 38.295559
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "297917"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "297917"
+      },
+      "name": "Yahyali",
+      "findname": "YAHYALI",
+      "country": "TR",
+      "coord": {
+        "lon": 35.35704,
+        "lat": 38.10228
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 298033,
+    "city": {
+      "id": {
+        "$numberLong": "298033"
+      },
+      "name": "Viransehir",
+      "findname": "VIRANSEHIR",
+      "country": "TR",
+      "coord": {
+        "lon": 39.763062,
+        "lat": 37.235279
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 298088,
+    "city": {
+      "id": {
+        "$numberLong": "298088"
+      },
+      "name": "Varto",
+      "findname": "VARTO",
+      "country": "TR",
+      "coord": {
+        "lon": 41.455929,
+        "lat": 39.17321
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 298117,
+    "city": {
+      "id": {
+        "$numberLong": "298117"
+      },
+      "name": "Van",
+      "findname": "VAN",
+      "country": "TR",
+      "coord": {
+        "lon": 43.38311,
+        "lat": 38.49239
+      },
+      "zoom": {
+        "$numberLong": "6"
+      }
+    }
+  },
+  {
+    "id": 298230,
+    "city": {
+      "id": {
+        "$numberLong": "298230"
+      },
+      "name": "Cimin",
+      "findname": "CIMIN",
+      "country": "TR",
+      "coord": {
+        "lon": 39.702129,
+        "lat": 39.71011
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 298299,
+    "city": {
+      "id": {
+        "$numberLong": "298299"
+      },
+      "name": "Usak",
+      "findname": "USAK",
+      "country": "TR",
+      "coord": {
+        "lon": 29.4058,
+        "lat": 38.673512
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 298316,
+    "city": {
+      "id": {
+        "$numberLong": "298316"
+      },
+      "name": "Urla",
+      "findname": "URLA",
+      "country": "TR",
+      "coord": {
+        "lon": 26.76403,
+        "lat": 38.322922
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 298326,
+    "city": {
+      "id": {
+        "$numberLong": "298326"
+      },
+      "name": "Urgub",
+      "findname": "URGUB",
+      "country": "TR",
+      "coord": {
+        "lon": 34.91198,
+        "lat": 38.629601
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 298333,
+    "city": {
+      "id": {
+        "$numberLong": "298333"
+      },
+      "name": "Sanliurfa",
+      "findname": "SANLIURFA",
+      "country": "TR",
+      "coord": {
+        "lon": 38.793919,
+        "lat": 37.16708
+      },
+      "zoom": {
+        "$numberLong": "7"
+      }
+    }
+  },
+  {
+    "id": 298806,
+    "city": {
+      "id": {
+        "$numberLong": "298806"
+      },
+      "name": "Turgutlu",
+      "findname": "TURGUTLU",
+      "country": "TR",
+      "coord": {
+        "lon": 27.699699,
+        "lat": 38.495331
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 298846,
+    "city": {
+      "id": {
+        "$numberLong": "298846"
+      },
+      "name": "Tunceli",
+      "findname": "TUNCELI",
+      "country": "TR",
+      "coord": {
+        "lon": 39.547112,
+        "lat": 39.108292
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "298935"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "298935"
+      },
+      "name": "Torbali",
+      "findname": "TORBALI",
+      "country": "TR",
+      "coord": {
+        "lon": 27.36223,
+        "lat": 38.151901
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "299137"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "299137"
+      },
+      "name": "Tire",
+      "findname": "TIRE",
+      "country": "TR",
+      "coord": {
+        "lon": 27.735081,
+        "lat": 38.088772
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 299445,
+    "city": {
+      "id": {
+        "$numberLong": "299445"
+      },
+      "name": "Tekirova",
+      "findname": "TEKIROVA",
+      "country": "TR",
+      "coord": {
+        "lon": 30.527229,
+        "lat": 36.501701
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "299545"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "299545"
+      },
+      "name": "Tavsanli",
+      "findname": "TAVSANLI",
+      "country": "TR",
+      "coord": {
+        "lon": 29.498659,
+        "lat": 39.54237
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 299582,
+    "city": {
+      "id": {
+        "$numberLong": "299582"
+      },
+      "name": "Tatvan",
+      "findname": "TATVAN",
+      "country": "TR",
+      "coord": {
+        "lon": 42.28167,
+        "lat": 38.506672
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 299817,
+    "city": {
+      "id": {
+        "$numberLong": "299817"
+      },
+      "name": "Tarsus",
+      "findname": "TARSUS",
+      "country": "TR",
+      "coord": {
+        "lon": 34.878399,
+        "lat": 36.918758
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "299900"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "299900"
+      },
+      "name": "Talas",
+      "findname": "TALAS",
+      "country": "TR",
+      "coord": {
+        "lon": 35.553799,
+        "lat": 38.6908
+      },
+      "zoom": {
+        "$numberLong": "12"
+      }
+    }
+  },
+  {
+    "id": 300058,
+    "city": {
+      "id": {
+        "$numberLong": "300058"
+      },
+      "name": "Susurluk",
+      "findname": "SUSURLUK",
+      "country": "TR",
+      "coord": {
+        "lon": 28.15778,
+        "lat": 39.913609
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "300075"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "300075"
+      },
+      "name": "Suruc",
+      "findname": "SURUC",
+      "country": "TR",
+      "coord": {
+        "lon": 38.42495,
+        "lat": 36.976139
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 300352,
+    "city": {
+      "id": {
+        "$numberLong": "300352"
+      },
+      "name": "Sorgun",
+      "findname": "SORGUN",
+      "country": "TR",
+      "coord": {
+        "lon": 35.185959,
+        "lat": 39.81012
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "300371"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "300371"
+      },
+      "name": "Soma",
+      "findname": "SOMA",
+      "country": "TR",
+      "coord": {
+        "lon": 27.609449,
+        "lat": 39.185539
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 300377,
+    "city": {
+      "id": {
+        "$numberLong": "300377"
+      },
+      "name": "Solhan",
+      "findname": "SOLHAN",
+      "country": "TR",
+      "coord": {
+        "lon": 41.029308,
+        "lat": 38.963379
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 300399,
+    "city": {
+      "id": {
+        "$numberLong": "300399"
+      },
+      "name": "Soeke",
+      "findname": "SOEKE",
+      "country": "TR",
+      "coord": {
+        "lon": 27.406139,
+        "lat": 37.748199
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 300614,
+    "city": {
+      "id": {
+        "$numberLong": "300614"
+      },
+      "name": "Siverek",
+      "findname": "SIVEREK",
+      "country": "TR",
+      "coord": {
+        "lon": 39.316669,
+        "lat": 37.75502
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 300619,
+    "city": {
+      "id": {
+        "$numberLong": "300619"
+      },
+      "name": "Sivas",
+      "findname": "SIVAS",
+      "country": "TR",
+      "coord": {
+        "lon": 37.016109,
+        "lat": 39.748329
+      },
+      "zoom": {
+        "$numberLong": "7"
+      }
+    }
+  },
+  {
+    "id": 300640,
+    "city": {
+      "id": {
+        "$numberLong": "300640"
+      },
+      "name": "Sirnak",
+      "findname": "SIRNAK",
+      "country": "TR",
+      "coord": {
+        "lon": 42.459438,
+        "lat": 37.522781
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 300791,
+    "city": {
+      "id": {
+        "$numberLong": "300791"
+      },
+      "name": "Simav",
+      "findname": "SIMAV",
+      "country": "TR",
+      "coord": {
+        "lon": 28.977671,
+        "lat": 39.0882
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "300796"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "300796"
+      },
+      "name": "Silvan",
+      "findname": "SILVAN",
+      "country": "TR",
+      "coord": {
+        "lon": 41.00806,
+        "lat": 38.141941
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 300797,
+    "city": {
+      "id": {
+        "$numberLong": "300797"
+      },
+      "name": "Silopi",
+      "findname": "SILOPI",
+      "country": "TR",
+      "coord": {
+        "lon": 42.46944,
+        "lat": 37.249722
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "300808"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "300808"
+      },
+      "name": "Silifke",
+      "findname": "SILIFKE",
+      "country": "TR",
+      "coord": {
+        "lon": 33.934441,
+        "lat": 36.377781
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 300822,
+    "city": {
+      "id": {
+        "$numberLong": "300822"
+      },
+      "name": "Siirt",
+      "findname": "SIIRT",
+      "country": "TR",
+      "coord": {
+        "lon": 41.94025,
+        "lat": 37.932621
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "301010"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "301010"
+      },
+      "name": "Seydisehir",
+      "findname": "SEYDISEHIR",
+      "country": "TR",
+      "coord": {
+        "lon": 31.84527,
+        "lat": 37.419258
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 301101,
+    "city": {
+      "id": {
+        "$numberLong": "301101"
+      },
+      "name": "Serik",
+      "findname": "SERIK",
+      "country": "TR",
+      "coord": {
+        "lon": 31.09889,
+        "lat": 36.916939
+      },
+      "zoom": {
+        "$numberLong": "11"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "301116"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "301116"
+      },
+      "name": "Sereflikochisar",
+      "findname": "SEREFLIKOCHISAR",
+      "country": "TR",
+      "coord": {
+        "lon": 33.538601,
+        "lat": 38.939251
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "301172"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "301172"
+      },
+      "name": "Senirkent",
+      "findname": "SENIRKENT",
+      "country": "TR",
+      "coord": {
+        "lon": 30.548611,
+        "lat": 38.104439
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "301209"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "301209"
+      },
+      "name": "Semdinli",
+      "findname": "SEMDINLI",
+      "country": "TR",
+      "coord": {
+        "lon": 44.5742,
+        "lat": 37.305141
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "301256"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "301256"
+      },
+      "name": "Selcuk",
+      "findname": "SELCUK",
+      "country": "TR",
+      "coord": {
+        "lon": 27.36849,
+        "lat": 37.95137
+      },
+      "zoom": {
+        "$numberLong": "11"
+      }
+    }
+  },
+  {
+    "id": 301350,
+    "city": {
+      "id": {
+        "$numberLong": "301350"
+      },
+      "name": "Seferihisar",
+      "findname": "SEFERIHISAR",
+      "country": "TR",
+      "coord": {
+        "lon": 26.83902,
+        "lat": 38.196861
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "301537"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "301537"
+      },
+      "name": "Sarkisla",
+      "findname": "SARKISLA",
+      "country": "TR",
+      "coord": {
+        "lon": 36.40976,
+        "lat": 39.35186
+      },
+      "zoom": {
+        "$numberLong": "7"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "301539"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "301539"
+      },
+      "name": "Sarkikaraagac",
+      "findname": "SARKIKARAAGAC",
+      "country": "TR",
+      "coord": {
+        "lon": 31.36639,
+        "lat": 38.079441
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 301827,
+    "city": {
+      "id": {
+        "$numberLong": "301827"
+      },
+      "name": "Saraykoy",
+      "findname": "SARAYKOY",
+      "country": "TR",
+      "coord": {
+        "lon": 28.925159,
+        "lat": 37.92448
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "301911"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "301911"
+      },
+      "name": "Sandikli",
+      "findname": "SANDIKLI",
+      "country": "TR",
+      "coord": {
+        "lon": 30.269461,
+        "lat": 38.464722
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 302043,
+    "city": {
+      "id": {
+        "$numberLong": "302043"
+      },
+      "name": "Salihli",
+      "findname": "SALIHLI",
+      "country": "TR",
+      "coord": {
+        "lon": 28.147739,
+        "lat": 38.482578
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 302355,
+    "city": {
+      "id": {
+        "$numberLong": "302355"
+      },
+      "name": "Reyhanli",
+      "findname": "REYHANLI",
+      "country": "TR",
+      "coord": {
+        "lon": 36.567219,
+        "lat": 36.269169
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 302525,
+    "city": {
+      "id": {
+        "$numberLong": "302525"
+      },
+      "name": "Polatli",
+      "findname": "POLATLI",
+      "country": "TR",
+      "coord": {
+        "lon": 32.141319,
+        "lat": 39.57716
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "302800"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "302800"
+      },
+      "name": "Pazarcik",
+      "findname": "PAZARCIK",
+      "country": "TR",
+      "coord": {
+        "lon": 37.29961,
+        "lat": 37.486851
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "302819"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "302819"
+      },
+      "name": "Patnos",
+      "findname": "PATNOS",
+      "country": "TR",
+      "coord": {
+        "lon": 42.863441,
+        "lat": 39.233608
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "302824"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "302824"
+      },
+      "name": "Pasinler",
+      "findname": "PASINLER",
+      "country": "TR",
+      "coord": {
+        "lon": 41.67635,
+        "lat": 39.980309
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 303195,
+    "city": {
+      "id": {
+        "$numberLong": "303195"
+      },
+      "name": "Osmaniye",
+      "findname": "OSMANIYE",
+      "country": "TR",
+      "coord": {
+        "lon": 36.24778,
+        "lat": 37.074169
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 303290,
+    "city": {
+      "id": {
+        "$numberLong": "303290"
+      },
+      "name": "Ortakoy",
+      "findname": "ORTAKOY",
+      "country": "TR",
+      "coord": {
+        "lon": 34.038658,
+        "lat": 38.737282
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "303354"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "303354"
+      },
+      "name": "Ortaca",
+      "findname": "ORTACA",
+      "country": "TR",
+      "coord": {
+        "lon": 28.77083,
+        "lat": 36.829441
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 303700,
+    "city": {
+      "id": {
+        "$numberLong": "303700"
+      },
+      "name": "Hypaepa",
+      "findname": "HYPAEPA",
+      "country": "TR",
+      "coord": {
+        "lon": 27.969549,
+        "lat": 38.227798
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "303750"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "303750"
+      },
+      "name": "Nusaybin",
+      "findname": "NUSAYBIN",
+      "country": "TR",
+      "coord": {
+        "lon": 41.2178,
+        "lat": 37.077801
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 303798,
+    "city": {
+      "id": {
+        "$numberLong": "303798"
+      },
+      "name": "Nizip",
+      "findname": "NIZIP",
+      "country": "TR",
+      "coord": {
+        "lon": 37.79417,
+        "lat": 37.00972
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "303827"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "303827"
+      },
+      "name": "Nigde",
+      "findname": "NIGDE",
+      "country": "TR",
+      "coord": {
+        "lon": 34.679352,
+        "lat": 37.965832
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 303831,
+    "city": {
+      "id": {
+        "$numberLong": "303831"
+      },
+      "name": "Nevsehir",
+      "findname": "NEVSEHIR",
+      "country": "TR",
+      "coord": {
+        "lon": 34.712219,
+        "lat": 38.625
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 303873,
+    "city": {
+      "id": {
+        "$numberLong": "303873"
+      },
+      "name": "Nazilli",
+      "findname": "NAZILLI",
+      "country": "TR",
+      "coord": {
+        "lon": 28.32225,
+        "lat": 37.916309
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 304013,
+    "city": {
+      "id": {
+        "$numberLong": "304013"
+      },
+      "name": "Mut",
+      "findname": "MUT",
+      "country": "TR",
+      "coord": {
+        "lon": 33.43885,
+        "lat": 36.64389
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "304081"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "304081"
+      },
+      "name": "Mus",
+      "findname": "MUS",
+      "country": "TR",
+      "coord": {
+        "lon": 41.506931,
+        "lat": 38.745251
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 304184,
+    "city": {
+      "id": {
+        "$numberLong": "304184"
+      },
+      "name": "Mugla",
+      "findname": "MUGLA",
+      "country": "TR",
+      "coord": {
+        "lon": 28.366501,
+        "lat": 37.218071
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "304196"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "304196"
+      },
+      "name": "Mucur",
+      "findname": "MUCUR",
+      "country": "TR",
+      "coord": {
+        "lon": 34.382858,
+        "lat": 39.06147
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 304355,
+    "city": {
+      "id": {
+        "$numberLong": "304355"
+      },
+      "name": "Milas",
+      "findname": "MILAS",
+      "country": "TR",
+      "coord": {
+        "lon": 27.78389,
+        "lat": 37.316391
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 304382,
+    "city": {
+      "id": {
+        "$numberLong": "304382"
+      },
+      "name": "Midyat",
+      "findname": "MIDYAT",
+      "country": "TR",
+      "coord": {
+        "lon": 41.33934,
+        "lat": 37.424702
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "304531"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "304531"
+      },
+      "name": "Mercin",
+      "findname": "MERCIN",
+      "country": "TR",
+      "coord": {
+        "lon": 34.61792,
+        "lat": 36.795261
+      },
+      "zoom": {
+        "$numberLong": "7"
+      }
+    }
+  },
+  {
+    "id": 304612,
+    "city": {
+      "id": {
+        "$numberLong": "304612"
+      },
+      "name": "Menemen",
+      "findname": "MENEMEN",
+      "country": "TR",
+      "coord": {
+        "lon": 27.06938,
+        "lat": 38.60754
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "304782"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "304782"
+      },
+      "name": "Marmaris",
+      "findname": "MARMARIS",
+      "country": "TR",
+      "coord": {
+        "lon": 28.27417,
+        "lat": 36.855
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "304797"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "304797"
+      },
+      "name": "Mardin",
+      "findname": "MARDIN",
+      "country": "TR",
+      "coord": {
+        "lon": 40.743568,
+        "lat": 37.313091
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 304827,
+    "city": {
+      "id": {
+        "$numberLong": "304827"
+      },
+      "name": "Manisa",
+      "findname": "MANISA",
+      "country": "TR",
+      "coord": {
+        "lon": 27.42646,
+        "lat": 38.612019
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 304854,
+    "city": {
+      "id": {
+        "$numberLong": "304854"
+      },
+      "name": "Manavgat",
+      "findname": "MANAVGAT",
+      "country": "TR",
+      "coord": {
+        "lon": 31.44306,
+        "lat": 36.786671
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 304916,
+    "city": {
+      "id": {
+        "$numberLong": "304916"
+      },
+      "name": "Malazgirt",
+      "findname": "MALAZGIRT",
+      "country": "TR",
+      "coord": {
+        "lon": 42.540081,
+        "lat": 39.142651
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 304922,
+    "city": {
+      "id": {
+        "$numberLong": "304922"
+      },
+      "name": "Malatya",
+      "findname": "MALATYA",
+      "country": "TR",
+      "coord": {
+        "lon": 38.316669,
+        "lat": 38.350182
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 305089,
+    "city": {
+      "id": {
+        "$numberLong": "305089"
+      },
+      "name": "Lice",
+      "findname": "LICE",
+      "country": "TR",
+      "coord": {
+        "lon": 40.647499,
+        "lat": 38.459171
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 305268,
+    "city": {
+      "id": {
+        "$numberLong": "305268"
+      },
+      "name": "Kutahya",
+      "findname": "KUTAHYA",
+      "country": "TR",
+      "coord": {
+        "lon": 29.98333,
+        "lat": 39.424171
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 305359,
+    "city": {
+      "id": {
+        "$numberLong": "305359"
+      },
+      "name": "Kusadasi",
+      "findname": "KUSADASI",
+      "country": "TR",
+      "coord": {
+        "lon": 27.256599,
+        "lat": 37.855621
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 305532,
+    "city": {
+      "id": {
+        "$numberLong": "305532"
+      },
+      "name": "Kurtalan",
+      "findname": "KURTALAN",
+      "country": "TR",
+      "coord": {
+        "lon": 41.70282,
+        "lat": 37.92717
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 305680,
+    "city": {
+      "id": {
+        "$numberLong": "305680"
+      },
+      "name": "Beykonak",
+      "findname": "BEYKONAK",
+      "country": "TR",
+      "coord": {
+        "lon": 30.30302,
+        "lat": 36.325729
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 305742,
+    "city": {
+      "id": {
+        "$numberLong": "305742"
+      },
+      "name": "Kulu",
+      "findname": "KULU",
+      "country": "TR",
+      "coord": {
+        "lon": 33.079891,
+        "lat": 39.095139
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 305750,
+    "city": {
+      "id": {
+        "$numberLong": "305750"
+      },
+      "name": "Kulp",
+      "findname": "KULP",
+      "country": "TR",
+      "coord": {
+        "lon": 41.012218,
+        "lat": 38.497219
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 305810,
+    "city": {
+      "id": {
+        "$numberLong": "305810"
+      },
+      "name": "Kula",
+      "findname": "KULA",
+      "country": "TR",
+      "coord": {
+        "lon": 28.649759,
+        "lat": 38.54726
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 306041,
+    "city": {
+      "id": {
+        "$numberLong": "306041"
+      },
+      "name": "Kozluk",
+      "findname": "KOZLUK",
+      "country": "TR",
+      "coord": {
+        "lon": 41.488529,
+        "lat": 38.193829
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 306112,
+    "city": {
+      "id": {
+        "$numberLong": "306112"
+      },
+      "name": "Kozan",
+      "findname": "KOZAN",
+      "country": "TR",
+      "coord": {
+        "lon": 35.815731,
+        "lat": 37.45517
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 306207,
+    "city": {
+      "id": {
+        "$numberLong": "306207"
+      },
+      "name": "Kovancilar",
+      "findname": "KOVANCILAR",
+      "country": "TR",
+      "coord": {
+        "lon": 39.868061,
+        "lat": 38.72139
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 306474,
+    "city": {
+      "id": {
+        "$numberLong": "306474"
+      },
+      "name": "Korkuteli",
+      "findname": "KORKUTELI",
+      "country": "TR",
+      "coord": {
+        "lon": 30.19565,
+        "lat": 37.06498
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 306571,
+    "city": {
+      "id": {
+        "$numberLong": "306571"
+      },
+      "name": "Konya",
+      "findname": "KONYA",
+      "country": "TR",
+      "coord": {
+        "lon": 32.484638,
+        "lat": 37.871349
+      },
+      "zoom": {
+        "$numberLong": "6"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "307084"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "307084"
+      },
+      "name": "Kiziltepe",
+      "findname": "KIZILTEPE",
+      "country": "TR",
+      "coord": {
+        "lon": 40.584999,
+        "lat": 37.193329
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 307211,
+    "city": {
+      "id": {
+        "$numberLong": "307211"
+      },
+      "name": "Serinhisar",
+      "findname": "SERINHISAR",
+      "country": "TR",
+      "coord": {
+        "lon": 29.26639,
+        "lat": 37.581039
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 307515,
+    "city": {
+      "id": {
+        "$numberLong": "307515"
+      },
+      "name": "Kirsehir",
+      "findname": "KIRSEHIR",
+      "country": "TR",
+      "coord": {
+        "lon": 34.163891,
+        "lat": 39.145828
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "307623"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "307623"
+      },
+      "name": "Kirkagac",
+      "findname": "KIRKAGAC",
+      "country": "TR",
+      "coord": {
+        "lon": 27.66925,
+        "lat": 39.10638
+      },
+      "zoom": {
+        "$numberLong": "11"
+      }
+    }
+  },
+  {
+    "id": 307654,
+    "city": {
+      "id": {
+        "$numberLong": "307654"
+      },
+      "name": "Kirikkale",
+      "findname": "KIRIKKALE",
+      "country": "TR",
+      "coord": {
+        "lon": 33.50639,
+        "lat": 39.84528
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "307657"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "307657"
+      },
+      "name": "Kirikhan",
+      "findname": "KIRIKHAN",
+      "country": "TR",
+      "coord": {
+        "lon": 36.357552,
+        "lat": 36.49939
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 307864,
+    "city": {
+      "id": {
+        "$numberLong": "307864"
+      },
+      "name": "Kilis",
+      "findname": "KILIS",
+      "country": "TR",
+      "coord": {
+        "lon": 37.115002,
+        "lat": 36.71611
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "308024"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "308024"
+      },
+      "name": "Keskin",
+      "findname": "KESKIN",
+      "country": "TR",
+      "coord": {
+        "lon": 33.613609,
+        "lat": 39.673061
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "308220"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "308220"
+      },
+      "name": "Kemer",
+      "findname": "KEMER",
+      "country": "TR",
+      "coord": {
+        "lon": 30.56056,
+        "lat": 36.597778
+      },
+      "zoom": {
+        "$numberLong": "11"
+      }
+    }
+  },
+  {
+    "id": 308224,
+    "city": {
+      "id": {
+        "$numberLong": "308224"
+      },
+      "name": "Kemalpasa",
+      "findname": "KEMALPASA",
+      "country": "TR",
+      "coord": {
+        "lon": 27.417311,
+        "lat": 38.426208
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 308464,
+    "city": {
+      "id": {
+        "$numberLong": "308464"
+      },
+      "name": "Kayseri",
+      "findname": "KAYSERI",
+      "country": "TR",
+      "coord": {
+        "lon": 35.485279,
+        "lat": 38.73222
+      },
+      "zoom": {
+        "$numberLong": "6"
+      }
+    }
+  },
+  {
+    "id": 309415,
+    "city": {
+      "id": {
+        "$numberLong": "309415"
+      },
+      "name": "Karapinar",
+      "findname": "KARAPINAR",
+      "country": "TR",
+      "coord": {
+        "lon": 33.55064,
+        "lat": 37.715961
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 309527,
+    "city": {
+      "id": {
+        "$numberLong": "309527"
+      },
+      "name": "Karaman",
+      "findname": "KARAMAN",
+      "country": "TR",
+      "coord": {
+        "lon": 33.215,
+        "lat": 37.18111
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 309647,
+    "city": {
+      "id": {
+        "$numberLong": "309647"
+      },
+      "name": "Agri",
+      "findname": "AGRI",
+      "country": "TR",
+      "coord": {
+        "lon": 43.051392,
+        "lat": 39.71944
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 309663,
+    "city": {
+      "id": {
+        "$numberLong": "309663"
+      },
+      "name": "Karakocan",
+      "findname": "KARAKOCAN",
+      "country": "TR",
+      "coord": {
+        "lon": 40.038609,
+        "lat": 38.95583
+      },
+      "zoom": {
+        "$numberLong": "6"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "310004"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "310004"
+      },
+      "name": "Karacoban",
+      "findname": "KARACOBAN",
+      "country": "TR",
+      "coord": {
+        "lon": 42.112389,
+        "lat": 39.34919
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 310641,
+    "city": {
+      "id": {
+        "$numberLong": "310641"
+      },
+      "name": "Kaman",
+      "findname": "KAMAN",
+      "country": "TR",
+      "coord": {
+        "lon": 33.723888,
+        "lat": 39.357498
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 310855,
+    "city": {
+      "id": {
+        "$numberLong": "310855"
+      },
+      "name": "Kahta",
+      "findname": "KAHTA",
+      "country": "TR",
+      "coord": {
+        "lon": 38.623699,
+        "lat": 37.785519
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 310859,
+    "city": {
+      "id": {
+        "$numberLong": "310859"
+      },
+      "name": "Kahramanmaras",
+      "findname": "KAHRAMANMARAS",
+      "country": "TR",
+      "coord": {
+        "lon": 36.926399,
+        "lat": 37.584702
+      },
+      "zoom": {
+        "$numberLong": "7"
+      }
+    }
+  },
+  {
+    "id": 310892,
+    "city": {
+      "id": {
+        "$numberLong": "310892"
+      },
+      "name": "Kadirli",
+      "findname": "KADIRLI",
+      "country": "TR",
+      "coord": {
+        "lon": 36.096111,
+        "lat": 37.37389
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "310907"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "310907"
+      },
+      "name": "Kadinhani",
+      "findname": "KADINHANI",
+      "country": "TR",
+      "coord": {
+        "lon": 32.211391,
+        "lat": 38.239719
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 311046,
+    "city": {
+      "id": {
+        "$numberLong": "311046"
+      },
+      "name": "Izmir",
+      "findname": "IZMIR",
+      "country": "TR",
+      "coord": {
+        "lon": 27.13838,
+        "lat": 38.412731
+      },
+      "zoom": {
+        "$numberLong": "6"
+      }
+    }
+  },
+  {
+    "id": 311073,
+    "city": {
+      "id": {
+        "$numberLong": "311073"
+      },
+      "name": "Isparta",
+      "findname": "ISPARTA",
+      "country": "TR",
+      "coord": {
+        "lon": 30.552219,
+        "lat": 37.764439
+      },
+      "zoom": {
+        "$numberLong": "7"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "311111"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "311111"
+      },
+      "name": "Iskenderun",
+      "findname": "ISKENDERUN",
+      "country": "TR",
+      "coord": {
+        "lon": 36.17347,
+        "lat": 36.587181
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "311314"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "311314"
+      },
+      "name": "Incirliova",
+      "findname": "INCIRLIOVA",
+      "country": "TR",
+      "coord": {
+        "lon": 27.72361,
+        "lat": 37.852219
+      },
+      "zoom": {
+        "$numberLong": "11"
+      }
+    }
+  },
+  {
+    "id": 311453,
+    "city": {
+      "id": {
+        "$numberLong": "311453"
+      },
+      "name": "Imamoglu",
+      "findname": "IMAMOGLU",
+      "country": "TR",
+      "coord": {
+        "lon": 35.657169,
+        "lat": 37.26506
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 311553,
+    "city": {
+      "id": {
+        "$numberLong": "311553"
+      },
+      "name": "Ilgin",
+      "findname": "ILGIN",
+      "country": "TR",
+      "coord": {
+        "lon": 31.913891,
+        "lat": 38.279171
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 311665,
+    "city": {
+      "id": {
+        "$numberLong": "311665"
+      },
+      "name": "Igdir",
+      "findname": "IGDIR",
+      "country": "TR",
+      "coord": {
+        "lon": 44.044998,
+        "lat": 39.92371
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 311704,
+    "city": {
+      "id": {
+        "$numberLong": "311704"
+      },
+      "name": "Idil",
+      "findname": "IDIL",
+      "country": "TR",
+      "coord": {
+        "lon": 41.8895,
+        "lat": 37.341141
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 312024,
+    "city": {
+      "id": {
+        "$numberLong": "312024"
+      },
+      "name": "Hizan",
+      "findname": "HIZAN",
+      "country": "TR",
+      "coord": {
+        "lon": 42.427761,
+        "lat": 38.225719
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 312114,
+    "city": {
+      "id": {
+        "$numberLong": "312114"
+      },
+      "name": "Hinis",
+      "findname": "HINIS",
+      "country": "TR",
+      "coord": {
+        "lon": 41.702221,
+        "lat": 39.3606
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 312134,
+    "city": {
+      "id": {
+        "$numberLong": "312134"
+      },
+      "name": "Hilvan",
+      "findname": "HILVAN",
+      "country": "TR",
+      "coord": {
+        "lon": 38.955051,
+        "lat": 37.586861
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "312899"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "312899"
+      },
+      "name": "Hadim",
+      "findname": "HADIM",
+      "country": "TR",
+      "coord": {
+        "lon": 32.456741,
+        "lat": 36.987759
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "313013"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "313013"
+      },
+      "name": "Hacilar",
+      "findname": "HACILAR",
+      "country": "TR",
+      "coord": {
+        "lon": 35.449371,
+        "lat": 38.646309
+      },
+      "zoom": {
+        "$numberLong": "11"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "313331"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "313331"
+      },
+      "name": "Guroymak",
+      "findname": "GUROYMAK",
+      "country": "TR",
+      "coord": {
+        "lon": 42.028111,
+        "lat": 38.577389
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "314136"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "314136"
+      },
+      "name": "Golbasi",
+      "findname": "GOLBASI",
+      "country": "TR",
+      "coord": {
+        "lon": 37.636669,
+        "lat": 37.783611
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 314188,
+    "city": {
+      "id": {
+        "$numberLong": "314188"
+      },
+      "name": "Goksun",
+      "findname": "GOKSUN",
+      "country": "TR",
+      "coord": {
+        "lon": 36.497299,
+        "lat": 38.020962
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "314648"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "314648"
+      },
+      "name": "Genc",
+      "findname": "GENC",
+      "country": "TR",
+      "coord": {
+        "lon": 40.560349,
+        "lat": 38.75071
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "314665"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "314665"
+      },
+      "name": "Gemerek",
+      "findname": "GEMEREK",
+      "country": "TR",
+      "coord": {
+        "lon": 36.071892,
+        "lat": 39.183418
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 314716,
+    "city": {
+      "id": {
+        "$numberLong": "314716"
+      },
+      "name": "Gediz",
+      "findname": "GEDIZ",
+      "country": "TR",
+      "coord": {
+        "lon": 29.41,
+        "lat": 39.041672
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "314812"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "314812"
+      },
+      "name": "Gazipasa",
+      "findname": "GAZIPASA",
+      "country": "TR",
+      "coord": {
+        "lon": 32.317921,
+        "lat": 36.269421
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 314830,
+    "city": {
+      "id": {
+        "$numberLong": "314830"
+      },
+      "name": "Gaziantep",
+      "findname": "GAZIANTEP",
+      "country": "TR",
+      "coord": {
+        "lon": 37.3825,
+        "lat": 37.059441
+      },
+      "zoom": {
+        "$numberLong": "5"
+      }
+    }
+  },
+  {
+    "id": 314903,
+    "city": {
+      "id": {
+        "$numberLong": "314903"
+      },
+      "name": "Foca",
+      "findname": "FOCA",
+      "country": "TR",
+      "coord": {
+        "lon": 26.756559,
+        "lat": 38.6703
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 314967,
+    "city": {
+      "id": {
+        "$numberLong": "314967"
+      },
+      "name": "Fethiye",
+      "findname": "FETHIYE",
+      "country": "TR",
+      "coord": {
+        "lon": 29.11639,
+        "lat": 36.62167
+      },
+      "zoom": {
+        "$numberLong": "6"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "315061"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "315061"
+      },
+      "name": "Ezine",
+      "findname": "EZINE",
+      "country": "TR",
+      "coord": {
+        "lon": 26.34083,
+        "lat": 39.78561
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 315202,
+    "city": {
+      "id": {
+        "$numberLong": "315202"
+      },
+      "name": "Eskisehir",
+      "findname": "ESKISEHIR",
+      "country": "TR",
+      "coord": {
+        "lon": 30.520559,
+        "lat": 39.776669
+      },
+      "zoom": {
+        "$numberLong": "7"
+      }
+    }
+  },
+  {
+    "id": 315368,
+    "city": {
+      "id": {
+        "$numberLong": "315368"
+      },
+      "name": "Erzurum",
+      "findname": "ERZURUM",
+      "country": "TR",
+      "coord": {
+        "lon": 41.276939,
+        "lat": 39.908611
+      },
+      "zoom": {
+        "$numberLong": "7"
+      }
+    }
+  },
+  {
+    "id": 315373,
+    "city": {
+      "id": {
+        "$numberLong": "315373"
+      },
+      "name": "Erzincan",
+      "findname": "ERZINCAN",
+      "country": "TR",
+      "coord": {
+        "lon": 39.492779,
+        "lat": 39.75222
+      },
+      "zoom": {
+        "$numberLong": "7"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "315401"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "315401"
+      },
+      "name": "Ermenek",
+      "findname": "ERMENEK",
+      "country": "TR",
+      "coord": {
+        "lon": 32.891788,
+        "lat": 36.64043
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 315468,
+    "city": {
+      "id": {
+        "$numberLong": "315468"
+      },
+      "name": "Ergani",
+      "findname": "ERGANI",
+      "country": "TR",
+      "coord": {
+        "lon": 39.762119,
+        "lat": 38.265331
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 315498,
+    "city": {
+      "id": {
+        "$numberLong": "315498"
+      },
+      "name": "Eregli",
+      "findname": "EREGLI",
+      "country": "TR",
+      "coord": {
+        "lon": 34.046719,
+        "lat": 37.513329
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "315515"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "315515"
+      },
+      "name": "Erdemli",
+      "findname": "ERDEMLI",
+      "country": "TR",
+      "coord": {
+        "lon": 34.308361,
+        "lat": 36.60498
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 315530,
+    "city": {
+      "id": {
+        "$numberLong": "315530"
+      },
+      "name": "Ercis",
+      "findname": "ERCIS",
+      "country": "TR",
+      "coord": {
+        "lon": 43.358639,
+        "lat": 39.02869
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "315621"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "315621"
+      },
+      "name": "Emirdag",
+      "findname": "EMIRDAG",
+      "country": "TR",
+      "coord": {
+        "lon": 31.15,
+        "lat": 39.019718
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 315639,
+    "city": {
+      "id": {
+        "$numberLong": "315639"
+      },
+      "name": "Emet",
+      "findname": "EMET",
+      "country": "TR",
+      "coord": {
+        "lon": 29.258471,
+        "lat": 39.342999
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 315697,
+    "city": {
+      "id": {
+        "$numberLong": "315697"
+      },
+      "name": "Elmali",
+      "findname": "ELMALI",
+      "country": "TR",
+      "coord": {
+        "lon": 29.917749,
+        "lat": 36.735828
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "315720"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "315720"
+      },
+      "name": "Elmadag",
+      "findname": "ELMADAG",
+      "country": "TR",
+      "coord": {
+        "lon": 33.230831,
+        "lat": 39.92083
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "315758"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "315758"
+      },
+      "name": "Eleskirt",
+      "findname": "ELESKIRT",
+      "country": "TR",
+      "coord": {
+        "lon": 42.673611,
+        "lat": 39.803329
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 315795,
+    "city": {
+      "id": {
+        "$numberLong": "315795"
+      },
+      "name": "Elbistan",
+      "findname": "ELBISTAN",
+      "country": "TR",
+      "coord": {
+        "lon": 37.198299,
+        "lat": 38.20591
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 315808,
+    "city": {
+      "id": {
+        "$numberLong": "315808"
+      },
+      "name": "Elazig",
+      "findname": "ELAZIG",
+      "country": "TR",
+      "coord": {
+        "lon": 39.223209,
+        "lat": 38.674309
+      },
+      "zoom": {
+        "$numberLong": "7"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "315905"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "315905"
+      },
+      "name": "Egirdir",
+      "findname": "EGIRDIR",
+      "country": "TR",
+      "coord": {
+        "lon": 30.85042,
+        "lat": 37.874619
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 315985,
+    "city": {
+      "id": {
+        "$numberLong": "315985"
+      },
+      "name": "Edremit",
+      "findname": "EDREMIT",
+      "country": "TR",
+      "coord": {
+        "lon": 27.024441,
+        "lat": 39.596111
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 316102,
+    "city": {
+      "id": {
+        "$numberLong": "316102"
+      },
+      "name": "Dursunbey",
+      "findname": "DURSUNBEY",
+      "country": "TR",
+      "coord": {
+        "lon": 28.625681,
+        "lat": 39.58596
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "316284"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "316284"
+      },
+      "name": "Dortyol",
+      "findname": "DORTYOL",
+      "country": "TR",
+      "coord": {
+        "lon": 36.228851,
+        "lat": 36.86158
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 316411,
+    "city": {
+      "id": {
+        "$numberLong": "316411"
+      },
+      "name": "Dogubayazit",
+      "findname": "DOGUBAYAZIT",
+      "country": "TR",
+      "coord": {
+        "lon": 44.084171,
+        "lat": 39.54694
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 316541,
+    "city": {
+      "id": {
+        "$numberLong": "316541"
+      },
+      "name": "Diyarbakir",
+      "findname": "DIYARBAKIR",
+      "country": "TR",
+      "coord": {
+        "lon": 40.218891,
+        "lat": 37.915829
+      },
+      "zoom": {
+        "$numberLong": "6"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "316542"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "316542"
+      },
+      "name": "Diyadin",
+      "findname": "DIYADIN",
+      "country": "TR",
+      "coord": {
+        "lon": 43.671349,
+        "lat": 39.540562
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "316634"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "316634"
+      },
+      "name": "Dinar",
+      "findname": "DINAR",
+      "country": "TR",
+      "coord": {
+        "lon": 30.165569,
+        "lat": 38.064999
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 316795,
+    "city": {
+      "id": {
+        "$numberLong": "316795"
+      },
+      "name": "Develi",
+      "findname": "DEVELI",
+      "country": "TR",
+      "coord": {
+        "lon": 35.492222,
+        "lat": 38.39056
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 317109,
+    "city": {
+      "id": {
+        "$numberLong": "317109"
+      },
+      "name": "Denizli",
+      "findname": "DENIZLI",
+      "country": "TR",
+      "coord": {
+        "lon": 29.0875,
+        "lat": 37.77417
+      },
+      "zoom": {
+        "$numberLong": "7"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "317241"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "317241"
+      },
+      "name": "Demirci",
+      "findname": "DEMIRCI",
+      "country": "TR",
+      "coord": {
+        "lon": 28.65889,
+        "lat": 39.04607
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "317587"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "317587"
+      },
+      "name": "Dargecit",
+      "findname": "DARGECIT",
+      "country": "TR",
+      "coord": {
+        "lon": 41.719662,
+        "lat": 37.545448
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "317588"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "317588"
+      },
+      "name": "Darende",
+      "findname": "DARENDE",
+      "country": "TR",
+      "coord": {
+        "lon": 37.505829,
+        "lat": 38.54583
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "317844"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "317844"
+      },
+      "name": "Cumra",
+      "findname": "CUMRA",
+      "country": "TR",
+      "coord": {
+        "lon": 32.77446,
+        "lat": 37.5732
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 317851,
+    "city": {
+      "id": {
+        "$numberLong": "317851"
+      },
+      "name": "Cumaovasi",
+      "findname": "CUMAOVASI",
+      "country": "TR",
+      "coord": {
+        "lon": 27.134291,
+        "lat": 38.24963
+      },
+      "zoom": {
+        "$numberLong": "11"
+      }
+    }
+  },
+  {
+    "id": 318137,
+    "city": {
+      "id": {
+        "$numberLong": "318137"
+      },
+      "name": "Hakkari",
+      "findname": "HAKKARI",
+      "country": "TR",
+      "coord": {
+        "lon": 43.740829,
+        "lat": 37.57444
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 318253,
+    "city": {
+      "id": {
+        "$numberLong": "318253"
+      },
+      "name": "Cizre",
+      "findname": "CIZRE",
+      "country": "TR",
+      "coord": {
+        "lon": 42.190281,
+        "lat": 37.327221
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "318372"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "318372"
+      },
+      "name": "Cine",
+      "findname": "CINE",
+      "country": "TR",
+      "coord": {
+        "lon": 28.06139,
+        "lat": 37.611671
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "318668"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "318668"
+      },
+      "name": "Ceylanpinar",
+      "findname": "CEYLANPINAR",
+      "country": "TR",
+      "coord": {
+        "lon": 40.049999,
+        "lat": 36.847221
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 318675,
+    "city": {
+      "id": {
+        "$numberLong": "318675"
+      },
+      "name": "Ceyhan",
+      "findname": "CEYHAN",
+      "country": "TR",
+      "coord": {
+        "lon": 35.817501,
+        "lat": 37.024719
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 318755,
+    "city": {
+      "id": {
+        "$numberLong": "318755"
+      },
+      "name": "Cesme",
+      "findname": "CESME",
+      "country": "TR",
+      "coord": {
+        "lon": 26.306391,
+        "lat": 38.322781
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 318766,
+    "city": {
+      "id": {
+        "$numberLong": "318766"
+      },
+      "name": "Cermik",
+      "findname": "CERMIK",
+      "country": "TR",
+      "coord": {
+        "lon": 39.449291,
+        "lat": 38.136131
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "319104"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "319104"
+      },
+      "name": "Cay",
+      "findname": "CAY",
+      "country": "TR",
+      "coord": {
+        "lon": 31.02861,
+        "lat": 38.591671
+      },
+      "zoom": {
+        "$numberLong": "11"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "320004"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "320004"
+      },
+      "name": "Caglayancerit",
+      "findname": "CAGLAYANCERIT",
+      "country": "TR",
+      "coord": {
+        "lon": 37.296219,
+        "lat": 37.749592
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "320369"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "320369"
+      },
+      "name": "Burhaniye",
+      "findname": "BURHANIYE",
+      "country": "TR",
+      "coord": {
+        "lon": 26.972691,
+        "lat": 39.500408
+      },
+      "zoom": {
+        "$numberLong": "11"
+      }
+    }
+  },
+  {
+    "id": 320392,
+    "city": {
+      "id": {
+        "$numberLong": "320392"
+      },
+      "name": "Burdur",
+      "findname": "BURDUR",
+      "country": "TR",
+      "coord": {
+        "lon": 30.290831,
+        "lat": 37.72028
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "320448"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "320448"
+      },
+      "name": "Bulanik",
+      "findname": "BULANIK",
+      "country": "TR",
+      "coord": {
+        "lon": 42.270309,
+        "lat": 39.092918
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 320533,
+    "city": {
+      "id": {
+        "$numberLong": "320533"
+      },
+      "name": "Bucak",
+      "findname": "BUCAK",
+      "country": "TR",
+      "coord": {
+        "lon": 30.594999,
+        "lat": 37.459171
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "320552"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "320552"
+      },
+      "name": "Bozyazi",
+      "findname": "BOZYAZI",
+      "country": "TR",
+      "coord": {
+        "lon": 32.961128,
+        "lat": 36.1082
+      },
+      "zoom": {
+        "$numberLong": "11"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "320557"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "320557"
+      },
+      "name": "Bozuyuk",
+      "findname": "BOZUYUK",
+      "country": "TR",
+      "coord": {
+        "lon": 30.036671,
+        "lat": 39.90778
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 320581,
+    "city": {
+      "id": {
+        "$numberLong": "320581"
+      },
+      "name": "Bozova",
+      "findname": "BOZOVA",
+      "country": "TR",
+      "coord": {
+        "lon": 38.526669,
+        "lat": 37.362499
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 320871,
+    "city": {
+      "id": {
+        "$numberLong": "320871"
+      },
+      "name": "Bor",
+      "findname": "BOR",
+      "country": "TR",
+      "coord": {
+        "lon": 34.558891,
+        "lat": 37.89056
+      },
+      "zoom": {
+        "$numberLong": "11"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "320879"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "320879"
+      },
+      "name": "Bolvadin",
+      "findname": "BOLVADIN",
+      "country": "TR",
+      "coord": {
+        "lon": 31.048611,
+        "lat": 38.711109
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 320995,
+    "city": {
+      "id": {
+        "$numberLong": "320995"
+      },
+      "name": "Bodrum",
+      "findname": "BODRUM",
+      "country": "TR",
+      "coord": {
+        "lon": 27.429171,
+        "lat": 37.03833
+      },
+      "zoom": {
+        "$numberLong": "7"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "321031"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "321031"
+      },
+      "name": "Bismil",
+      "findname": "BISMIL",
+      "country": "TR",
+      "coord": {
+        "lon": 40.665829,
+        "lat": 37.84861
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 321062,
+    "city": {
+      "id": {
+        "$numberLong": "321062"
+      },
+      "name": "Birecik",
+      "findname": "BIRECIK",
+      "country": "TR",
+      "coord": {
+        "lon": 37.99028,
+        "lat": 37.029442
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 321082,
+    "city": {
+      "id": {
+        "$numberLong": "321082"
+      },
+      "name": "Bingol",
+      "findname": "BINGOL",
+      "country": "TR",
+      "coord": {
+        "lon": 40.493889,
+        "lat": 38.88472
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 321136,
+    "city": {
+      "id": {
+        "$numberLong": "321136"
+      },
+      "name": "Bigadic",
+      "findname": "BIGADIC",
+      "country": "TR",
+      "coord": {
+        "lon": 28.131109,
+        "lat": 39.392502
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 321191,
+    "city": {
+      "id": {
+        "$numberLong": "321191"
+      },
+      "name": "Beysehir",
+      "findname": "BEYSEHIR",
+      "country": "TR",
+      "coord": {
+        "lon": 31.724581,
+        "lat": 37.677349
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "321337"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "321337"
+      },
+      "name": "Besni",
+      "findname": "BESNI",
+      "country": "TR",
+      "coord": {
+        "lon": 37.861111,
+        "lat": 37.69278
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 321426,
+    "city": {
+      "id": {
+        "$numberLong": "321426"
+      },
+      "name": "Bergama",
+      "findname": "BERGAMA",
+      "country": "TR",
+      "coord": {
+        "lon": 27.180519,
+        "lat": 39.120739
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "321572"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "321572"
+      },
+      "name": "Belen",
+      "findname": "BELEN",
+      "country": "TR",
+      "coord": {
+        "lon": 36.223309,
+        "lat": 36.489109
+      },
+      "zoom": {
+        "$numberLong": "11"
+      }
+    }
+  },
+  {
+    "id": 321580,
+    "city": {
+      "id": {
+        "$numberLong": "321580"
+      },
+      "name": "Belek",
+      "findname": "BELEK",
+      "country": "TR",
+      "coord": {
+        "lon": 31.055559,
+        "lat": 36.862782
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "321786"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "321786"
+      },
+      "name": "Bayindir",
+      "findname": "BAYINDIR",
+      "country": "TR",
+      "coord": {
+        "lon": 27.64744,
+        "lat": 38.217411
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 321836,
+    "city": {
+      "id": {
+        "$numberLong": "321836"
+      },
+      "name": "Batman",
+      "findname": "BATMAN",
+      "country": "TR",
+      "coord": {
+        "lon": 41.13221,
+        "lat": 37.887379
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 321929,
+    "city": {
+      "id": {
+        "$numberLong": "321929"
+      },
+      "name": "Baskil",
+      "findname": "BASKIL",
+      "country": "TR",
+      "coord": {
+        "lon": 38.823818,
+        "lat": 38.567909
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "322051"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "322051"
+      },
+      "name": "Banaz",
+      "findname": "BANAZ",
+      "country": "TR",
+      "coord": {
+        "lon": 29.75194,
+        "lat": 38.737068
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 322165,
+    "city": {
+      "id": {
+        "$numberLong": "322165"
+      },
+      "name": "Balikesir",
+      "findname": "BALIKESIR",
+      "country": "TR",
+      "coord": {
+        "lon": 27.88611,
+        "lat": 39.64917
+      },
+      "zoom": {
+        "$numberLong": "7"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "322391"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "322391"
+      },
+      "name": "Bahce",
+      "findname": "BAHCE",
+      "country": "TR",
+      "coord": {
+        "lon": 36.57658,
+        "lat": 37.197239
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 322673,
+    "city": {
+      "id": {
+        "$numberLong": "322673"
+      },
+      "name": "Ayvalik",
+      "findname": "AYVALIK",
+      "country": "TR",
+      "coord": {
+        "lon": 26.6954,
+        "lat": 39.31905
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 322830,
+    "city": {
+      "id": {
+        "$numberLong": "322830"
+      },
+      "name": "Aydin",
+      "findname": "AYDIN",
+      "country": "TR",
+      "coord": {
+        "lon": 27.83963,
+        "lat": 37.845009
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "323094"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "323094"
+      },
+      "name": "Askale",
+      "findname": "ASKALE",
+      "country": "TR",
+      "coord": {
+        "lon": 40.695,
+        "lat": 39.92083
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "323777"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "323777"
+      },
+      "name": "Antalya",
+      "findname": "ANTALYA",
+      "country": "TR",
+      "coord": {
+        "lon": 30.69556,
+        "lat": 36.908119
+      },
+      "zoom": {
+        "$numberLong": "7"
+      }
+    }
+  },
+  {
+    "id": 323779,
+    "city": {
+      "id": {
+        "$numberLong": "323779"
+      },
+      "name": "Antioch",
+      "findname": "ANTIOCH",
+      "country": "TR",
+      "coord": {
+        "lon": 36.157219,
+        "lat": 36.206551
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 323786,
+    "city": {
+      "id": {
+        "$numberLong": "323786"
+      },
+      "name": "Ankara",
+      "findname": "ANKARA",
+      "country": "TR",
+      "coord": {
+        "lon": 32.854271,
+        "lat": 39.919868
+      },
+      "zoom": {
+        "$numberLong": "4"
+      }
+    }
+  },
+  {
+    "id": 323828,
+    "city": {
+      "id": {
+        "$numberLong": "323828"
+      },
+      "name": "Anamur",
+      "findname": "ANAMUR",
+      "country": "TR",
+      "coord": {
+        "lon": 32.83691,
+        "lat": 36.075081
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 324106,
+    "city": {
+      "id": {
+        "$numberLong": "324106"
+      },
+      "name": "Aliaga",
+      "findname": "ALIAGA",
+      "country": "TR",
+      "coord": {
+        "lon": 26.972031,
+        "lat": 38.799751
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "324172"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "324172"
+      },
+      "name": "Alasehir",
+      "findname": "ALASEHIR",
+      "country": "TR",
+      "coord": {
+        "lon": 28.517179,
+        "lat": 38.35083
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "324190"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "324190"
+      },
+      "name": "Alanya",
+      "findname": "ALANYA",
+      "country": "TR",
+      "coord": {
+        "lon": 31.999821,
+        "lat": 36.543751
+      },
+      "zoom": {
+        "$numberLong": "7"
+      }
+    }
+  },
+  {
+    "id": 324490,
+    "city": {
+      "id": {
+        "$numberLong": "324490"
+      },
+      "name": "Aksehir",
+      "findname": "AKSEHIR",
+      "country": "TR",
+      "coord": {
+        "lon": 31.416389,
+        "lat": 38.357498
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 324496,
+    "city": {
+      "id": {
+        "$numberLong": "324496"
+      },
+      "name": "Aksaray",
+      "findname": "AKSARAY",
+      "country": "TR",
+      "coord": {
+        "lon": 34.025372,
+        "lat": 38.372551
+      },
+      "zoom": {
+        "$numberLong": "7"
+      }
+    }
+  },
+  {
+    "id": 324698,
+    "city": {
+      "id": {
+        "$numberLong": "324698"
+      },
+      "name": "Akhisar",
+      "findname": "AKHISAR",
+      "country": "TR",
+      "coord": {
+        "lon": 27.840059,
+        "lat": 38.918522
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 324768,
+    "city": {
+      "id": {
+        "$numberLong": "324768"
+      },
+      "name": "Akdagmadeni",
+      "findname": "AKDAGMADENI",
+      "country": "TR",
+      "coord": {
+        "lon": 35.88361,
+        "lat": 39.660278
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 324944,
+    "city": {
+      "id": {
+        "$numberLong": "324944"
+      },
+      "name": "Akcakale",
+      "findname": "AKCAKALE",
+      "country": "TR",
+      "coord": {
+        "lon": 38.947498,
+        "lat": 36.711109
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": {
+      "$numberLong": "325103"
+    },
+    "city": {
+      "id": {
+        "$numberLong": "325103"
+      },
+      "name": "Ahlat",
+      "findname": "AHLAT",
+      "country": "TR",
+      "coord": {
+        "lon": 42.48135,
+        "lat": 38.751781
+      },
+      "zoom": {
+        "$numberLong": "9"
+      }
+    }
+  },
+  {
+    "id": 325303,
+    "city": {
+      "id": {
+        "$numberLong": "325303"
+      },
+      "name": "Afyonkarahisar",
+      "findname": "AFYONKARAHISAR",
+      "country": "TR",
+      "coord": {
+        "lon": 30.543329,
+        "lat": 38.756672
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 325304,
+    "city": {
+      "id": {
+        "$numberLong": "325304"
+      },
+      "name": "Afsin",
+      "findname": "AFSIN",
+      "country": "TR",
+      "coord": {
+        "lon": 36.91399,
+        "lat": 38.247688
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 325330,
+    "city": {
+      "id": {
+        "$numberLong": "325330"
+      },
+      "name": "Adiyaman",
+      "findname": "ADIYAMAN",
+      "country": "TR",
+      "coord": {
+        "lon": 38.276291,
+        "lat": 37.764408
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  },
+  {
+    "id": 325336,
+    "city": {
+      "id": {
+        "$numberLong": "325336"
+      },
+      "name": "Adilcevaz",
+      "findname": "ADILCEVAZ",
+      "country": "TR",
+      "coord": {
+        "lon": 42.734219,
+        "lat": 38.80389
+      },
+      "zoom": {
+        "$numberLong": "10"
+      }
+    }
+  },
+  {
+    "id": 325363,
+    "city": {
+      "id": {
+        "$numberLong": "325363"
+      },
+      "name": "Adana",
+      "findname": "ADANA",
+      "country": "TR",
+      "coord": {
+        "lon": 35.328892,
+        "lat": 37.001671
+      },
+      "zoom": {
+        "$numberLong": "8"
+      }
+    }
+  }
+]
