@@ -290,22 +290,22 @@ def gdpr(bot: Bot, update: Update):
 
 
 MARKDOWN_HELP = """
-Telegram buton oluşturma destekler. {}  \
+{} ile butonlar oluşturmak çok kolay !!  \
 Mesajları ayırarak ve organize ederek butonlar oluşturabilirsiniz.
 
-- <code>_italic_</code>: metni '_' ile kaydırmak italik metin üretecektir.
-- <code>*bold*</code>: metni '*' ile kaydırmak kalın metin üretecektir
-- <code>`code`</code>: metni '' 'ile kaydırmak,' kod 'olarak da bilinen tek aralıklı metin üretir
-- <code>[metin](someURL)</code>: bu bir bağlantı oluşturacak - Şöyle görünecek <code>metin</code>, \
-ve üzerine dokunduğunuzda sayfa şurada açılacaktır: <code>URL</code>.
-Örnek: <code>[deneme](mattalebesi.blogspot.com)</code>
+- <code>_italic_</code>: metni <_> ile kaydırmak italik metin üretecektir.
+- <code>*bold*</code>: metni <*> ile kaydırmak kalın metin üretecektir
+- <code>`code`</code>: metni <'> ile kaydırmak,' kod 'olarak da bilinen tek aralıklı metin üretir
+
+Örnek: <code>[*deneme*](_mattalebesi.blogspot.com_)</code>
+
 
 - <code>[butonmetni](buttonurl:URL)</code>: bu, buton oluşturmamızı sağlar \
-Butondaki düğmeler. <code>buttonmetni</code> düğmede görüntülenecek, ve <code>url</code> \
-açlıacak.
+
 Örnek: <code>[Bu bir buton](buttonurl:mattalebesi.blogspot.com)</code>
 
 Aynı satırda buton oluşturmak için, şunu kullan:
+
 <code>[bir](buttonurl://mattalebesi.blogspot.com)
 [iki](buttonurl://youtube.com/c/islematolyesi)</code>
 Tek satırda iki buton oluşacak ya da daha fazla.
@@ -315,11 +315,7 @@ Tek satırda iki buton oluşacak ya da daha fazla.
 @run_async
 def markdown_help(bot: Bot, update: Update):
     update.effective_message.reply_text(MARKDOWN_HELP, parse_mode=ParseMode.HTML)
-    update.effective_message.reply_text("Aşağıdaki mesajı bana iletmeyi deneyin, göreceksiniz!")
-    update.effective_message.reply_text("Örnek buton oluşturma. _italics_, *bold*, `code`, "
-                                        "[buton](buttonurl://mattalebesi.blogspot.com) "
-                                        "[buton2](buttonurl://youtube.com/c/islematolyesi)")
-
+    update.effective_message.reply_text("Yukarıdaki bazı örnekleri bana iletmeyi deneyin, göreceksiniz!")
 
 @run_async
 def stats(bot: Bot, update: Update):
