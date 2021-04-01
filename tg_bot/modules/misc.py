@@ -293,9 +293,9 @@ MARKDOWN_HELP = """
 {} ile butonlar oluşturmak çok kolay !!  \
 Mesajları ayırarak ve organize ederek butonlar oluşturabilirsiniz.
 
-- <code>_italic_</code>: metni <_> ile kaydırmak italik metin üretecektir.
-- <code>*bold*</code>: metni <*> ile kaydırmak kalın metin üretecektir
-- <code>`code`</code>: metni <'> ile kaydırmak,' kod 'olarak da bilinen tek aralıklı metin üretir
+- <code>_italic_</code>: metni '_' ile kaydırmak italik metin üretecektir.
+- <code>*bold*</code>: metni '*' ile kaydırmak kalın metin üretecektir
+- <code>`code`</code>: metni ' ' ' ile kaydırmak,' kod 'olarak da bilinen tek aralıklı metin üretir
 
 Örnek: <code>[*deneme](mattalebesi.blogspot.com)</code>
 
