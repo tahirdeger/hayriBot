@@ -23,7 +23,7 @@ def konus(bot: Bot, update: Update):
         words = msg.text
         if len(words) > 3:
             response = assistant.message_stateless(
-                assistant_id='136209fb-0888-44d3-9c70-c4824fa542dd',
+                assistant_id='f2d87901-432b-4d62-923d-586e036bb189',
                 input={
                     'message_type': 'text',
                     'text': words
