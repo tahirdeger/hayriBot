@@ -297,7 +297,7 @@ Mesajları ayırarak ve organize ederek butonlar oluşturabilirsiniz.
 - <code>*bold*</code>: metni <*> ile kaydırmak kalın metin üretecektir
 - <code>`code`</code>: metni <'> ile kaydırmak,' kod 'olarak da bilinen tek aralıklı metin üretir
 
-Örnek: <code>[*deneme*](_mattalebesi.blogspot.com_)</code>
+Örnek: <code>[*deneme](mattalebesi.blogspot.com)</code>
 
 
 - <code>[butonmetni](buttonurl:URL)</code>: bu, buton oluşturmamızı sağlar \
