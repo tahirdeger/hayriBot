@@ -88,7 +88,7 @@ def del_message(bot: Bot, update: Update) -> str:
 __help__ = """
 *Sadece Yöneticiler:*
  - /sil: Cevapladığınız mesajı siler.
- - /hepsinisil: Komutunuzla yanıtlanan mesaj arasındaki tüm mesajları siler.
+ - /hepsinisil: Yanıtladığınız mesajdan itibaren gelmiş tüm mesajlar silinir.
  - /hepsinisil <sayı>: Cevaplanan mesaj da dahil belirtilen sayı kadar mesajı siler.
 """
 

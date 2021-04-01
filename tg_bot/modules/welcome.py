@@ -231,7 +231,7 @@ def welcome(bot: Bot, update: Update, args: List[str]):
 
         elif args[0].lower() in ("kapat", "hayir"):
             sql.set_welc_preference(str(chat.id), False)
-            update.effective_message.reply_text("Somurtuyorum artık merhaba demiyorum.")
+            update.effective_message.reply_text("Artık selam vermeyeceğim... Aksiliğim üzerimde olacak.")
 
         else:
             # idek what you're writing, say yes or no
@@ -381,7 +381,7 @@ def clean_welcome(bot: Bot, update: Update, args: List[str]) -> str:
         return "<b>{}:</b>" \
                "\n#CLEAN_WELCOME" \
                "\n<b>Admin:</b> {}" \
-               "\nTemiz karşılamalar <code> AÇIK </code> olarak değiştirildi.".format(html.escape(chat.title),
+               "\nKarşılamalar <code> AÇIK </code> olarak değiştirildi.".format(html.escape(chat.title),
                                                                          mention_html(user.id, user.first_name))
     elif args[0].lower() in ("kapat", "hayir"):
         sql.set_clean_welcome(str(chat.id), False)
@@ -389,7 +389,7 @@ def clean_welcome(bot: Bot, update: Update, args: List[str]) -> str:
         return "<b>{}:</b>" \
                "\n#CLEAN_WELCOME" \
                "\n<b>Admin:</b> {}" \
-               "\nMüdahalesiz karşılamalar <code> KAPALI </code> olarak değiştirildi.".format(html.escape(chat.title),
+               "\nKarşılamalar <code> KAPALI </code> olarak değiştirildi.".format(html.escape(chat.title),
                                                                           mention_html(user.id, user.first_name))
     else:
         # idek what you're writing, say yes or no
@@ -445,24 +445,22 @@ def __chat_settings__(chat_id, user_id):
     welcome_pref, _, _ = sql.get_welc_pref(chat_id)
     goodbye_pref, _, _ = sql.get_gdbye_pref(chat_id)
     return "Bu sohbetin hoş geldiniz tercihi `{}` olarak ayarlanmış.\n" \
-           "Elveda tercihi `{}`.".format(welcome_pref, goodbye_pref)
+           "Veda tercihi `{}`.".format(welcome_pref, goodbye_pref)
 
 
 __help__ = """
 {}
 
 *Sadece yöneticiler:*
- - /selamlama <ac/kapat>: evet/hayir : Hoşgeldin mesajı veririm.
+ - /selamlama <ac/kapat> veya <evet/hayir> : Hoşgeldin mesajı veririm.
  - /selamlama: Mevcut selamlama ayarlarını gösterir.
  - /selamlama formatsız: biçimlendirme olmadan geçerli karşılama ayarlarını gösterir - karşılama mesajlarınızı geri dönüştürmek için kullanışlıdır!
- - /veda -> selamlama gibi kullanılır.
+ - /veda : selamlama gibi kullanılır.
  - /selamver <metin>: özel bir karşılama mesajı ayarlayın. Medyaya yanıt olarak kullanılırsa, o medyayı kullanır.
  - /vedaet <metin>: özel bir veda mesajı ayarlayın. Medyaya yanıt olarak kullanılırsa, o medyayı kullanır.
  - /resetselamver: varsayılan karşılama mesajına sıfırlayın.
  - /resetvedaet: varsayılan veda mesajına sıfırlayın.
  - /silselamlama <ac/kapat>: Yeni üyede, sohbete spam göndermekten kaçınmak için önceki hoş geldiniz mesajını silmeyi deneyin.
-
- - /selamlamayardim: selamlama / veda mesajları için daha fazla biçimlendirme bilgisi görüntüleyin.
 """.format(WELC_HELP_TXT)
 
 __mod_name__ = "Hoşgeldin"

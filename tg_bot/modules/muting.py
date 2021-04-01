@@ -128,7 +128,7 @@ def temp_mute(bot: Bot, update: Update, args: List[str]) -> str:
             raise
 
     if is_user_admin(chat, user_id, member):
-        message.reply_text("Yöneticileri susturamam, atarlar beni...")
+        message.reply_text("Yöneticileri susturamam, atarlar beni gardaş...")
         return ""
 
     if user_id == bot.id:
@@ -164,7 +164,7 @@ def temp_mute(bot: Bot, update: Update, args: List[str]) -> str:
     try:
         if member.can_send_messages is None or member.can_send_messages:
             bot.restrict_chat_member(chat.id, user_id, until_date=mutetime, can_send_messages=False)
-            message.reply_text("{} için yoksayıldı!".format(time_val))
+            message.reply_text("{} için susturuldu!".format(time_val))
             return log
         else:
             message.reply_text("Zaten susturulmuş.")
@@ -187,6 +187,8 @@ __help__ = """
 *Sadece yöneticiler:*
  - /sustur <kullanıcı>: Bir kullanıcıyı susturur. Cevap olarak da kullanılabilir, cevaplanan kullanıcıyı susturabilir.
  - /zamanlisustur <kullanıcı> zaman(m/h/d): Kullanıcıyı bir süre susturur. (Elle veya mesaja cevap vererek). m = dakika, h = saat, d = gün.
+   Örn: /zamanlisustur @kullanici 1m
+        /zsustur @kullanici 1d
  - /izinver <kullanıcı>: bir kullanıcının sesini açar. Cevap olarak da kullanılabilir, cevaplanan kullanıcıya izin verir.
 """
 

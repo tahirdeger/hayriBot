@@ -290,37 +290,35 @@ def gdpr(bot: Bot, update: Update):
 
 
 MARKDOWN_HELP = """
-Markdown is a very powerful formatting tool supported by telegram. {} has some enhancements, to make sure that \
-saved messages are correctly parsed, and to allow you to create buttons.
+Telegram buton oluşturma destekler. {}  \
+Mesajları ayırarak ve organize ederek butonlar oluşturabilirsiniz.
 
-- <code>_italic_</code>: wrapping text with '_' will produce italic text
-- <code>*bold*</code>: wrapping text with '*' will produce bold text
-- <code>`code`</code>: wrapping text with '`' will produce monospaced text, also known as 'code'
-- <code>[sometext](someURL)</code>: this will create a link - the message will just show <code>sometext</code>, \
-and tapping on it will open the page at <code>someURL</code>.
-EG: <code>[test](example.com)</code>
+- <code>_italic_</code>: metni '_' ile kaydırmak italik metin üretecektir.
+- <code>*bold*</code>: metni '*' ile kaydırmak kalın metin üretecektir
+- <code>`code`</code>: metni '' 'ile kaydırmak,' kod 'olarak da bilinen tek aralıklı metin üretir
+- <code>[metin](someURL)</code>: bu bir bağlantı oluşturacak - Şöyle görünecek <code>metin</code>, \
+ve üzerine dokunduğunuzda sayfa şurada açılacaktır: <code>URL</code>.
+Örnek: <code>[deneme](mattalebesi.blogspot.com)</code>
 
-- <code>[buttontext](buttonurl:someURL)</code>: this is a special enhancement to allow users to have telegram \
-buttons in their markdown. <code>buttontext</code> will be what is displayed on the button, and <code>someurl</code> \
-will be the url which is opened.
-EG: <code>[This is a button](buttonurl:example.com)</code>
+- <code>[butonmetni](buttonurl:URL)</code>: bu, buton oluşturmamızı sağlar \
+Butondaki düğmeler. <code>buttonmetni</code> düğmede görüntülenecek, ve <code>url</code> \
+açlıacak.
+Örnek: <code>[Bu bir buton](buttonurl:mattalebesi.blogspot.com)</code>
 
-If you want multiple buttons on the same line, use :same, as such:
-<code>[one](buttonurl://example.com)
-[two](buttonurl://google.com:same)</code>
-This will create two buttons on a single line, instead of one button per line.
-
-Keep in mind that your message <b>MUST</b> contain some text other than just a button!
+Aynı satırda buton oluşturmak için, şunu kullan:
+<code>[bir](buttonurl://mattalebesi.blogspot.com)
+[iki](buttonurl://youtube.com/c/islematolyesi)</code>
+Tek satırda iki buton oluşacak ya da daha fazla.
 """.format(dispatcher.bot.first_name)
 
 
 @run_async
 def markdown_help(bot: Bot, update: Update):
     update.effective_message.reply_text(MARKDOWN_HELP, parse_mode=ParseMode.HTML)
-    update.effective_message.reply_text("Try forwarding the following message to me, and you'll see!")
-    update.effective_message.reply_text("/save test This is a markdown test. _italics_, *bold*, `code`, "
-                                        "[URL](example.com) [button](buttonurl:github.com) "
-                                        "[button2](buttonurl://google.com:same)")
+    update.effective_message.reply_text("Aşağıdaki mesajı bana iletmeyi deneyin, göreceksiniz!")
+    update.effective_message.reply_text("Örnek buton oluşturma. _italics_, *bold*, `code`, "
+                                        "[buton](buttonurl://mattalebesi.blogspot.com) "
+                                        "[buton2](buttonurl://youtube.com/c/islematolyesi)")
 
 
 @run_async
@@ -332,6 +330,7 @@ def stats(bot: Bot, update: Update):
 __help__ = """
  - /id: Mevcut grup kimliğini alın. Bir mesajı yanıtlayarak kullanılırsa, o kullanıcının kimliğini alır.
  - /bilgi: bir kullanıcı hakkında bilgi alın.
+ - /butonyardim : Nasıl butonlar oluşturacağınız hakkında bilgi alın.
 """
 
 __mod_name__ = "Çeşitli"
@@ -345,7 +344,7 @@ RUNS_HANDLER = DisableAbleCommandHandler("runs", runs)
 INFO_HANDLER = DisableAbleCommandHandler("bilgi", info, pass_args=True)
 
 ECHO_HANDLER = CommandHandler("echo", echo, filters=Filters.user(OWNER_ID))
-MD_HELP_HANDLER = CommandHandler("markdownhelp", markdown_help, filters=Filters.private)
+MD_HELP_HANDLER = CommandHandler("butonyardim", markdown_help, filters=Filters.private)
 
 STATS_HANDLER = CommandHandler("stats", stats, filters=CustomFilters.sudo_filter)
 GDPR_HANDLER = CommandHandler("gdpr", gdpr, filters=Filters.private)
