@@ -142,7 +142,7 @@ if is_module_loaded(FILENAME):
         return "Bu grup için günlük ayarlanmadı!"
 
 
-    __help__ = """
+    __help__ ="""
 *Sadece yöneticiler:*
 - /kanalbilgisi: Günlük kanal bilgisi al
 - /gunlukekle: Günlük kanal bilgisi ayarla.
@@ -152,9 +152,10 @@ Günlük kanalının ayarlanması şu şekilde yapılır::
 - Botu istenen kanala eklemek (yönetici olarak!)
 - Kanala /gunlukekle
 - /gunlukekle'yi gruba yolla
-"""
 
+"""
     __mod_name__ = "Kanal Günlüğü"
+    
 
     LOG_HANDLER = CommandHandler("kanalbilgisi", logging)
     SET_LOG_HANDLER = CommandHandler("gunlukekle", setlog)

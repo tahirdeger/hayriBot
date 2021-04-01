@@ -88,7 +88,7 @@ def unmute(bot: Bot, update: Update, args: List[str]) -> str:
                                          can_send_media_messages=True,
                                          can_send_other_messages=True,
                                          can_add_web_page_previews=True)
-                message.reply_text("Susturuldu!")
+                message.reply_text("Parmak bağları çözüldü! Tekrarı olmaz İnşallah:)")
                 return "<b>{}:</b>" \
                        "\n#UNMUTE" \
                        "\n<b>Yönetici:</b> {}" \
