@@ -10,7 +10,7 @@ class Development(Config):
     USE_MESSAGE_DUMP = True
     SUDO_USERS = [824191257]  # List of id's for users which have sudo access to the bot.
     LOAD = []
-    NO_LOAD = ['translation']
+    NO_LOAD = []
 
 #
 #postgres://crvdpjeikvuyfw:1a366714070cba850e33d7c0789fbe60ee2bee466de878a4b918c86322c33c3c@ec2-34-203-155-237.compute-1.amazonaws.com:5432/d7mpkfdbdm4omq
