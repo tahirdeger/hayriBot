@@ -21,32 +21,26 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 
 PM_START_TEXT = """
-Selamunaleyküm {}, ben {}! Sanal asistan olarak iş hayatına atılmış bulunmaktayım. Senin sanal asistanın olabilir, gruplarını senin için yönetebilirim !
-Gözün arkada kalmasın, gözümü kulağımı dört açarım...
+Selamunaleyküm {}, ben Tayfadan *{}*! Sanal asistan olarak işe başladım. Hele gel şöyle yanıma da neler yapabilirim bi görelim...
 
-Bendeniz, Python ile oluşturulmuş bir grup yöneticisi botuyum ve tamamen açık kaynaklıyım;
+Senin için neler yapabilirim?
+ - Yapay zekam ile söylediklerini dinler ve cevap veririm
+ - Grup yazışmalarını yönetirim
+ - Türkçe <=> İngilizce çeviri yaparım
 
-İncelemek için: https://github.com/tahirdeger/hayriBot
+ Tüm modüllerimi incele => /yardim.
 
-Bildiklerimi listelemek için => /yardim.
+Kaynak kodlarımı incelemek için: https://github.com/tahirdeger/hayriBot
 
-Maddi destek için => /bagis
 """
 
 HELP_STRINGS = """
-*{}* neler yapabilir??
-Bendeniz sanal asistan ve grup yönetim botu olarak acizane şunları yapabilirim:
+ - /yardim : Yapabileceklerim hakkında detaylı bilgi
+ - /yardim <modül adı>: Bir modül ile detaylı bilgi
+ - /ayarlar : Bireysel veya grup içinde yazarsan, mevcut ayarlarını gösteriririm.
+ - /bagis : Maddi destek olmak istersen.
 
-=> Ön ayarları yapalım:
- - /yardim: Bireysel olarak emir ve görüşlerini alırım
- - /yardim <modül adı>: Bir modül ile ilgili emir ve görüşlerini alırım.
- - /bagis: Maddi destek
- - /ayarlar:
-   - özelde: Desteklenen tüm modüller için gereken ayarları yaparım.
-   - grup içinde: Gruplar için gereken ayarları yaparım.
-
-{}
-=> Yapabileceğim tüm işleri planlayalım:
+=> Şimdi {}, beni herhangi bir grubuna *YÖNETİCİ* olarak ekle ve yapabileceğim tüm işleri planlayalım:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nTüm komutları yazarken başına / veya ! koymayı unutma.\n")
 
 DONATE_STRING = """Şu para işlerini hiç sevmem . Sen beni bırak yapacaksan AFAD'a yardım et; Ziraat IBAN TR 7300 0100 1745 5555 5555 5204."""
@@ -117,7 +111,7 @@ def send_help(chat_id, text, keyboard=None):
 def test(bot: Bot, update: Update):
     # pprint(eval(str(update)))
     # update.effective_message.reply_text("Hola tester! _I_ *have* `markdown`", parse_mode=ParseMode.MARKDOWN)
-    update.effective_message.reply_text("Bu vatandaş mesajın içeriğini değiştirdi")
+    update.effective_message.reply_text("Bu bir denemeydi..")
     print(update.effective_message)
 
 
@@ -146,7 +140,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
                 parse_mode=ParseMode.MARKDOWN)
     else:
-        update.effective_message.reply_text("Hey, naber arkadaşlar? Ben Hayri, biliyrosunuz. Sanal asistan olduk. Size yardımcı olmaktan mutluluk duyacağım")
+        update.effective_message.reply_text("Hey, naber gençler? Ben Hayri, rafadan olan... Sanal asistan olduk. Size yardımcı olmaktan mutluluk duyacağım")
 
 
 # for test purposes
@@ -220,7 +214,7 @@ def help_button(bot: Bot, update: Update):
     except BadRequest as excp:
         if excp.message == "Olmaaz, mesajı değiştiremezsin":
             pass
-        elif excp.message == "Sorgu kimliği geçersiz":
+        elif excp.message == "Kimlik geçersiz":
             pass
         elif excp.message == "Hop, orada dur. Bu mesaj silinemez":
             pass
@@ -335,11 +329,11 @@ def settings_button(bot: Bot, update: Update):
         bot.answer_callback_query(query.id)
         query.message.delete()
     except BadRequest as excp:
-        if excp.message == "Mesaj değiştirilmedi":
+        if excp.message == "The message has not been changed":
             pass
         elif excp.message == "Query_id_invalid":
             pass
-        elif excp.message == "Orda dur! Bu mesaj silinemez":
+        elif excp.message == "Stop right there! This message cannot be deleted":
             pass
         else:
             LOGGER.exception("Exception in settings buttons. %s", str(query.data))
@@ -377,7 +371,7 @@ def donate(bot: Bot, update: Update):
         update.effective_message.reply_text(DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True)
 
         if OWNER_ID != 824191257 and DONATION_LINK:
-            update.effective_message.reply_text("İşverenime destek olabilrsin "
+            update.effective_message.reply_text("İşverenime destek olabilirsin "
                                                 "[Buraya tıkla]({})".format(DONATION_LINK),
                                                 parse_mode=ParseMode.MARKDOWN)
 
