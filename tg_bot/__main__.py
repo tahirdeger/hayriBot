@@ -38,9 +38,9 @@ HELP_STRINGS = """
  - /yardim : Yapabileceklerim hakkında detaylı bilgi
  - /yardim <modül adı>: Bir modül ile detaylı bilgi
  - /ayarlar : Bireysel veya grup içinde yazarsan, mevcut ayarlarını gösteriririm.
- - /bagis : Maddi destek olmak istersen.
+ - /bagis :  {}'nin işverenine destek olmak istersen
 
-=> Şimdi {}, beni herhangi bir grubuna *YÖNETİCİ* olarak ekle ve yapabileceğim tüm işleri planlayalım:
+=> Şimdi, beni herhangi bir grubuna *YÖNETİCİ* olarak ekle ve yapabileceğim tüm işleri planlayalım:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nTüm komutları yazarken başına / veya ! koymayı unutma.\n")
 
 DONATE_STRING = """Şu para işlerini hiç sevmem . Sen beni bırak yapacaksan AFAD'a yardım et; Ziraat IBAN TR 7300 0100 1745 5555 5555 5204."""
