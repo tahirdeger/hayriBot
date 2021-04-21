@@ -18,6 +18,7 @@ BLACKLIST_GROUP = 11
 BASE_BLACKLIST_STRING = "Mevcut <b>kara listedeki</b> kelimeler:\n"
 
 
+@user_admin
 @run_async
 def blacklist(bot: Bot, update: Update, args: List[str]):
     msg = update.effective_message  # type: Optional[Message]
@@ -152,9 +153,8 @@ hemen o mesaj silinir. Bazen bunu uyarı filtreleriyle eşleştirmek iyi bir kom
 
 *Not:* Kara listeler grup yöneticilerini etkilemez.
 
- - /karaliste: Kara listeye alınmış mevcut kelimleleri gösterir.
-
 *Sadece yöneticiler:*
+ - /karaliste: Kara listeye alınmış mevcut kelimleleri gösterir.
  - /eklekaraliste <tetikleyici>: Kara listeye bir tetikleyici ekleyin. Her satır bir tetikleyici olarak kabul edilir, dolayısıyla farklı \
 satırlar birden fazla tetikleyici eklemenize izin verir.
  - /kaldirkaraliste <tetikleyici>: Kara listeden tetikleyicileri kaldırın. Aynı satırsonu mantığı burada da geçerlidir, böylece \
