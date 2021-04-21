@@ -9,13 +9,13 @@ from ibm_watson import AssistantV2
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 
 
-authenticator = IAMAuthenticator('api_Key')
+authenticator = IAMAuthenticator('s4DEE-T7yliXpCwOY4DQLH-2DAHN46GIxRGlH1qa0uD7')
 assistant = AssistantV2(
     version='2020-04-01',
     authenticator = authenticator
 )
 
-assistant.set_service_url('service_url')
+assistant.set_service_url('https://api.eu-gb.assistant.watson.cloud.ibm.com/')
 
 def konus(bot: Bot, update: Update):
     if update.effective_message:
@@ -23,7 +23,7 @@ def konus(bot: Bot, update: Update):
         words = msg.text
         if len(words) > 3:
             response = assistant.message_stateless(
-                assistant_id='asistant_id',
+                assistant_id='f2d87901-432b-4d62-923d-586e036bb189',
                 input={
                     'message_type': 'text',
                     'text': words
