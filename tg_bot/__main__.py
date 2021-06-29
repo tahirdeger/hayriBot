@@ -23,14 +23,13 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Selamunaleyküm {}, ben Tayfadan *{}*! Sanal asistan olarak işe başladım. Hele gel şöyle yanıma da neler yapabilirim bi görelim...
 
-Senin için neler yapabilirim?
+Senin yapacaklarım kısaca:
  - Yapay zekam ile söylediklerini dinler ve cevap veririm
  - Grup yazışmalarını yönetirim
+ - İstediğin filtre sözcüklere karşılık veririm
  - Türkçe <=> İngilizce çeviri yaparım
 
- Tüm modüllerimi incele => /yardim.
-
-Kaynak kodlarımı incelemek için: https://github.com/tahirdeger/hayriBot
+ Tüm modüllerimi incelemek için => /yardim.
 
 """
 
@@ -40,7 +39,7 @@ HELP_STRINGS = """
  - /ayarlar : Bireysel veya grup içinde yazarsan, mevcut ayarlarını gösteriririm.
  - /bagis :  {}'nin işverenine destek olmak istersen
 
-=> Şimdi, beni herhangi bir grubuna *YÖNETİCİ* olarak ekle ve yapabileceğim tüm işleri planlayalım:
+=> Şimdi, beni herhangi bir grubuna ekle. Sonra grup ayarlarından beni *YÖNETİCİ* olarak ata. Yetkilerimi arttır..
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nTüm komutları yazarken başına / veya ! koymayı unutma.\n")
 
 DONATE_STRING = """Şu para işlerini hiç sevmem . Sen beni bırak yapacaksan AFAD'a yardım et; Ziraat IBAN TR 7300 0100 1745 5555 5555 5204."""
@@ -212,11 +211,11 @@ def help_button(bot: Bot, update: Update):
         bot.answer_callback_query(query.id)
         query.message.delete()
     except BadRequest as excp:
-        if excp.message == "Olmaaz, mesajı değiştiremezsin":
+        if excp.message == "Message is not modified":
             pass
-        elif excp.message == "Kimlik geçersiz":
+        elif excp.message == "Query_id_invalid":
             pass
-        elif excp.message == "Hop, orada dur. Bu mesaj silinemez":
+        elif excp.message == "Message can't be deleted":
             pass
         else:
             LOGGER.exception("Exception in help buttons. %s", str(query.data))
@@ -460,7 +459,7 @@ def process_update(self, update):
             try:
                 self.dispatch_error(None, update)
             except Exception:
-                self.logger.exception('Hatayı incelerken başka bir hata yaptık')
+                self.logger.exception('An uncaught error was raised while handling the error')
             return
 
         now = datetime.datetime.utcnow()

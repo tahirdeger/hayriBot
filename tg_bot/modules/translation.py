@@ -7,13 +7,13 @@ from pprint import pprint
 from ibm_watson import LanguageTranslatorV3
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 
-authenticator = IAMAuthenticator('api_key')
+authenticator = IAMAuthenticator('kGVQ8CrGoEQKkCQcIkhqu-I9EbJypmocv2Yk2wxlbPHt')
 language_translator = LanguageTranslatorV3(
     version='2018-05-01',
     authenticator=authenticator
 )
 
-language_translator.set_service_url('service_url')
+language_translator.set_service_url('https://api.eu-gb.language-translator.watson.cloud.ibm.com/instances/991db3f0-f0de-4c50-8dd5-415a9b8e74ce')
 
 def translatetr(bot: Bot, update: Update):
     if update.effective_message.reply_to_message:
